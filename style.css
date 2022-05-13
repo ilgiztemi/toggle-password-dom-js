@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.container {
+    margin: 50px;
+    width: 100vw;
+}
+.container p {
+    margin-bottom: 5px;
+}
+.container div {
+    margin-top: 30px;
+}
+.container .input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid silver;
+}
+.container .checkbox {
+    width: 25px;
+    height: 25px;
+}
+.container span {
+    vertical-align: top;
+}
